@@ -1,2 +1,6 @@
+setuptools
 sphinx
 literate-sphinx
+sphinx-astrorefs
+sphinx-book-theme
+sphinxcontrib-bibtex
